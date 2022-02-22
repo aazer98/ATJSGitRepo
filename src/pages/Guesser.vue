@@ -1,7 +1,7 @@
 <script>
-import { mapState, mapActions } from 'vuex';
-import GuesserScores from '@/components/GuesserScores.vue';
-import CardsList from '@/components/CardsList.vue';
+import { mapState, mapActions } from 'vuex'
+import GuesserScores from '../components/GuesserScores.vue'
+import CardsList from '../components/CardsList.vue'
 
 export default {
   components: {
